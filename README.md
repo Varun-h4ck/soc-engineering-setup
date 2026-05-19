@@ -8,7 +8,7 @@
 
 ## What This Project Builds
 
-A fully automated Security Operations Center pipeline that:
+A fully automated Security Operations Center workflow pipeline that:
 - Collects Windows Event Logs in real time using Winlogbeat
 - Stores and analyzes logs in Elastic Cloud SIEM
 - Detects 8 attack scenarios using custom KQL rules
